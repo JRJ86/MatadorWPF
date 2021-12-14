@@ -1,23 +1,24 @@
-﻿namespace Matador_in_WPF.model;
-
-public class Player
+﻿namespace Matador_in_WPF.model
 {
-    private string _name;
-    private int _playerNumber;
-    private int _walletAmount;
-    private int _position;
-    private int _currentRoll;
-    private bool _inJail;
-
-    private Player(string name, int playerNumber, int walletAmount, int position, bool inJail, int currentRoll)
+    public class Player
     {
-        this._name = name;
-        this._playerNumber = playerNumber;
-        this._walletAmount = walletAmount;
-        this._position = position;
-        this._inJail = inJail;
-        this._currentRoll = currentRoll;
+        public string Name { get; set; }
+        public int PlayerNumber { get; set; }
+        public int WalletAmount { get; set; }
+        public int Position { get; set; }
+        public int CurrentRoll { get; set; }
+        public bool InJail { get; set; }
+    
+        public Player(string name, int playerNumber, int walletAmount, int position, bool inJail)
+        {
+            Name = name;
+            PlayerNumber = playerNumber;
+            WalletAmount = walletAmount;
+            Position = position;
+            InJail = inJail;
+        }
+        
+        
     }
-    
-    
-}
+};
+

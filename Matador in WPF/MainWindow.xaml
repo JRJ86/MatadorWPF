@@ -15,8 +15,8 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Button Grid.Row="0" Grid.Column="0" Width="100" Height="20" Content="click me"></Button>
-        <TextBlock Grid.Row="0" Grid.Column="1" Width="200" Height="100" 
+        <Button Name="ButtonTest" Click="ButtonClick" Grid.Row="0" Grid.Column="0" Width="100" Height="20" Content="click me"></Button>
+        <TextBlock Name="TextId" Grid.Row="0" Grid.Column="1" Width="200" Height="100" 
                    Background="Blue" Foreground="Ivory" TextAlignment="Center" FontSize="20"></TextBlock>
     </Grid>
 </Window>

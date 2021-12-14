@@ -1,0 +1,17 @@
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csprojAssemblyReference.cache
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_MarkupCompile.cache
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_MarkupCompile.lref
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.exe
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.deps.json
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.runtimeconfig.json
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.runtimeconfig.dev.json
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.dll
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.pdb
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.g.resources
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.AssemblyInfoInputs.cache
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.AssemblyInfo.cs
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.dll
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.pdb

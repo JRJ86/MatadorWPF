@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Matador_in_WPF.model;
 
 namespace Matador_in_WPF
 {
@@ -20,11 +21,17 @@ namespace Matador_in_WPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        private Player _player = new Player("Jacob", 1, 1000, 0,false);
+        
         public MainWindow()
         {
             InitializeComponent();
         }
         
-        
+        private void ButtonClick(object sender, RoutedEventArgs e)
+        {
+
+            TextId.Text = _player.Name;
+        }
     }
 }
