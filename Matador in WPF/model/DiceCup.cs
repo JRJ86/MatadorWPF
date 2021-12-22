@@ -1,4 +1,6 @@
-﻿namespace Matador_in_WPF.model
+﻿using System;
+
+namespace Matador_in_WPF.model
 {
     public class DiceCup
     {
@@ -15,6 +17,13 @@
         {
             FirstDice.Roll();
             SecondDice.Roll();
+        }
+
+        public override string ToString()
+        {
+            return "dice 1 rolled: " + FirstDice.Value + "\n" +
+                   "dice 2 rolled: " + SecondDice.Value + "\n" +
+                   "Your total is: " + (FirstDice.Value + SecondDice.Value);
         }
     }
 };

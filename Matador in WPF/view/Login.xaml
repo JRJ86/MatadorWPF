@@ -6,23 +6,35 @@
         xmlns:local="clr-namespace:Matador_in_WPF"
         Left="0" Top="0"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="500">
+        Title="MainWindow" Height="350" Width="400">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
         
-        <TextBlock Grid.Row="0" Grid.Column="0">Username</TextBlock>
-        <TextBlock Grid.Row="0" Grid.Column="1">Password</TextBlock>
-        <TextBox Grid.Row="1" Grid.Column="0" Name="UsernameInput" Text="Enter username here!"/>
-        <TextBox Grid.Row="1" Grid.Column="1" Name="PasswordInput" Text="Enter password here!"/>
-        <Button Click="LoginButton_OnClick" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="0" Content="Login" Height="20" Width="40"></Button>
+        <TextBlock Grid.Row="0" Name="Headline" Margin="30,20" FontSize="30"
+                           TextAlignment="Center" Text="Login to play"/>
+        
+        <TextBlock Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="58,10,0,0" Name="UsernameText"
+                   Text="Email" VerticalAlignment="Top" Width="67" />  
+        <TextBlock Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="58,10,0,0" Name="PasswordText"
+                   Text="Password" VerticalAlignment="Top" Width="77" />  
+        <TextBox Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="118,10,0,0" Name="TextBoxEmail"
+                 VerticalAlignment="Top" Width="220" />  
+        <PasswordBox Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="118,10,0,0" Name="PasswordBox"
+                     VerticalAlignment="Top" Width="220" />
+        
+        
+        <Button Click="LoginButton_OnClick" Grid.Row="3" Content="Login"
+                Height="20" Width="160" Margin="118,10,0,0" HorizontalAlignment="Left"/>
+        <Button Click="RegisterButton_OnClick" Grid.Row="4" Content="Register"
+                Height="20" Width="160" Margin="118,10,0,20" HorizontalAlignment="Left"/>
+        
+        
         
     </Grid>
 </Window>

@@ -20,6 +20,12 @@ namespace Matador_in_WPF.logic.logicInterface
             window.Left = (screenWidth / 2) - (windowWidth / 2);
             window.Top = (screenHeight / 2) - (windowHeight / 2);
         }
+
+        public void SetHeightAndWidthToMax(Window window)
+        {
+            window.Width = System.Windows.SystemParameters.PrimaryScreenWidth;
+            window.Height = System.Windows.SystemParameters.PrimaryScreenHeight;
+        }
     }
 };
 
