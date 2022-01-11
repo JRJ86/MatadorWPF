@@ -3,11 +3,11 @@ using Matador_in_WPF.logic.logicInterface;
 
 namespace Matador_in_WPF.view
 {
-    public partial class Startup
+    public partial class StartupWindow : Window
     {
         private readonly IScreenSize _screenSize = new ScreenSize();
         
-        public Startup()
+        public StartupWindow()
         {
             InitializeComponent();
             _screenSize.CenterWindowOnScreen(this);
@@ -15,7 +15,7 @@ namespace Matador_in_WPF.view
     
         private void StartupButton_OnClick(object sender, RoutedEventArgs e)
         {
-            var login = new Login();
+            var login = new LoginWindow();
             login.Show();
             Close();
         }
