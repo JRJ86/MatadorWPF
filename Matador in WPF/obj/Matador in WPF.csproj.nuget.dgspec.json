@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.4.0-ci57, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.27, )"

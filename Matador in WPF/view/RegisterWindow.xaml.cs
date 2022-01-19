@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows;
 using Matador_in_WPF.logic.logicInterface;
+using Matador_in_WPF.mysql;
 using MySql.Data.MySqlClient;
 
 namespace Matador_in_WPF.view
@@ -9,6 +10,7 @@ namespace Matador_in_WPF.view
     {
 
         private readonly IScreenSize _screenSize = new ScreenSize();
+        private readonly IDBconnection _dBconnection = new DBconnection();
         
         public RegisterWindow()
         {
@@ -19,29 +21,7 @@ namespace Matador_in_WPF.view
 
         private void SubmitButton_OnClick(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                const string myConnection = "datasource=localhost;port=3306;username=root;password=password";
-                var query = "INSERT INTO matador.users (username,pass) VALUES ('" + this.TextBoxFirstName.Text + "','" +
-                             this.PasswordBox1.Password + "' );";
-                MySqlConnection mySqlConnection = new MySqlConnection(myConnection);
-                MySqlCommand mySqlCommand = new MySqlCommand(query, mySqlConnection);
-                MySqlDataReader dataReader;
-                mySqlConnection.Open();
-                dataReader = mySqlCommand.ExecuteReader();
-                MessageBox.Show("Save data!");
-                while (dataReader.Read()) {}
-                mySqlConnection.Close();
-                
-            }
-            catch (Exception exception)
-            {
-                Console.WriteLine(exception);
-                MessageBox.Show(exception.Message);
-                throw;
-            }
-            
-            
+            _dBconnection.DbRegisterUser(TextBoxFirstName,PasswordBox1,"matador.users");
         }
 
         private void ResetButton_OnClick(object sender, RoutedEventArgs e)

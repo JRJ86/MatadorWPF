@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\App.xaml
-4556711642
-21627781925
-19-1660772542
-223-1434465436
-view\GameScreenWindow.xaml;view\LoginWindow.xaml;view\RegisterWindow.xaml;view\StartupWindow.xaml;
+6-137593601
+2-1550097815
+2236618492
+225851498063
+view\GameScreenWindow.xaml;view\LoginWindow.xaml;view\MainWindow.xaml;view\RegisterWindow.xaml;view\UserControl\LoginUc.xaml;view\UserControl\RegisterUc.xaml;
 
 False
 

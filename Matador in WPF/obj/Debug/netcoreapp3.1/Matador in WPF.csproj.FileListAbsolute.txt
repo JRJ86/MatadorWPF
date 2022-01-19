@@ -17,8 +17,6 @@ C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\v
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\RegisterWindow.baml
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginWindow.baml
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginWindow.g.cs
-C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\StartupWindow.g.cs
-C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\StartupWindow.baml
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\GameScreenWindow.g.cs
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\GameScreenWindow.baml
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
@@ -61,3 +59,11 @@ C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\r
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_Content.g.cs
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csproj.CopyComplete
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\UserControl\LoginUc.g.cs
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\UserControl\RegisterUc.g.cs
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\UserControl\LoginUc.baml
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\UserControl\RegisterUc.baml
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.g.cs
+C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.baml

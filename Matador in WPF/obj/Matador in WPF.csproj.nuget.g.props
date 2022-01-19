@@ -35,5 +35,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\jacob\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
+    <PkgMaterialDesignThemes Condition=" '$(PkgMaterialDesignThemes)' == '' ">C:\Users\jacob\.nuget\packages\materialdesignthemes\4.4.0-ci57</PkgMaterialDesignThemes>
   </PropertyGroup>
 </Project>

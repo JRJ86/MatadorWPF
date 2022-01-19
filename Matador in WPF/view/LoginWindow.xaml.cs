@@ -3,26 +3,21 @@ using System.Windows;
 using System.Windows.Controls;
 using Matador_in_WPF.logic.logicInterface;
 using Matador_in_WPF.model.chanceCards;
+using Matador_in_WPF.mysql;
 
 namespace Matador_in_WPF.view
 {
     public partial class LoginWindow : Window
     {
-        private TextBlock _headline, _usernameText, _passwordText;
-        private TextBox _textBoxEmail;
-        private PasswordBox _passwordBox;
-        private Button _loginButton, _registerButton;
 
         private readonly IScreenSize _screenSize = new ScreenSize();
+        private readonly IDBconnection _dBconnection = new DBconnection();
+        private string _username, _password;
 
         public LoginWindow()
         {
             InitializeComponent();
             _screenSize.CenterWindowOnScreen(this);
-            
-            // make an If statement to see what state the window has
-            // ------------------------Content of Window----------------------
-
         }
 
         /**
@@ -30,14 +25,17 @@ namespace Matador_in_WPF.view
          */
         private void LoginButton_OnClick(object sender, RoutedEventArgs e)
         {
-            if (TextBoxEmail.Text == "jrj@email.com" && PasswordBox.Password == "pass")
+            _username = _dBconnection.DbGetUser(TextBoxUsername,"matador.users");
+            _password = _dBconnection.DbGetPass(TextBoxUsername,"matador.users");
+            
+            if (TextBoxUsername.Text == _username  && PasswordBox.Password == _password)
             {
-                // Go on to the game!
+                MessageBox.Show("Hooray!!");
             }
-            else if (string.IsNullOrEmpty(TextBoxEmail.Text))
+            else if (string.IsNullOrEmpty(TextBoxUsername.Text))
             {
                 MessageBox.Show("Enter your username!", "Empty field!", MessageBoxButton.OK, MessageBoxImage.Information);
-                TextBoxEmail.Focus();
+                TextBoxUsername.Focus();
             }
             else if (string.IsNullOrEmpty(PasswordBox.Password))
             {
@@ -54,10 +52,10 @@ namespace Matador_in_WPF.view
         private void RegisterButton_OnClick(object sender, RoutedEventArgs e)
         {
 
-            var result = MessageBox.Show("You are being directed to the register page!", "Info", MessageBoxButton.YesNo,
-                MessageBoxImage.Question);
+            //var result = MessageBox.Show("You are being directed to the register page!", "Info", MessageBoxButton.YesNo,
+            //    MessageBoxImage.Question);
 
-            if (result != MessageBoxResult.Yes) return;
+            //if (result != MessageBoxResult.Yes) return;
             var registration = new RegisterWindow();
             registration.Show();
             Close();

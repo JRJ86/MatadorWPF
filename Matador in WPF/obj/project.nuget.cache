@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z3J4DEwVLxw948pYWws4mgk9Dn/sARqQi/CFmfmXwnCNV4tnUSfJ2Px4lD1yEzBqWDvwgKhCet7BHH83tPjA9w==",
+  "dgSpecHash": "trlAb7IywOApkhmdHxvi9ZZJoRS9xgEmEhhNcs+6ca3OHToGCZ9uTqmQjSyIKZX2EzL/7AVl8xpbWIf5pmslGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jacob\\RiderProjects\\MatadorWPF\\Matador in WPF\\Matador in WPF.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "C:\\Users\\jacob\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\materialdesigncolors\\2.0.5-ci57\\materialdesigncolors.2.0.5-ci57.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\materialdesignthemes\\4.4.0-ci57\\materialdesignthemes.4.4.0-ci57.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
