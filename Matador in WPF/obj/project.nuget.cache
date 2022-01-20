@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8xGs/Jtvbww66fk1CEnV3FjX6ynjZQa1tAw598813OZhaBO1P6XOawR1tqA4nz7Ig22X+Yq9vDjEhGlBELSkpg==",
+  "dgSpecHash": "trlAb7IywOApkhmdHxvi9ZZJoRS9xgEmEhhNcs+6ca3OHToGCZ9uTqmQjSyIKZX2EzL/7AVl8xpbWIf5pmslGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jacob\\RiderProjects\\MatadorWPF\\Matador in WPF\\Matador in WPF.csproj",
   "expectedPackageFiles": [
@@ -57,9 +57,7 @@
     "C:\\Users\\jacob\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
-    "C:\\Users\\jacob\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\jacob\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": [
     {
