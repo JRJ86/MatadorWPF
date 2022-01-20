@@ -1,5 +1,7 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 using Matador_in_WPF.logic.logicInterface;
+using Matador_in_WPF.view.UserControl;
 
 namespace Matador_in_WPF.view
 {
@@ -12,13 +14,13 @@ namespace Matador_in_WPF.view
             InitializeComponent();
             _screenSize.SetHeightAndWidthToMax(this);
             _screenSize.CenterWindowOnScreen(this);
+            this.Loaded += MainWindow_Loaded;
         }
-    
-        private void StartupButton_OnClick(object sender, RoutedEventArgs e)
+
+        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            var login = new LoginWindow();
-            login.Show();
-            Close();
+            System.Windows.Controls.UserControl loginUserControl = new LoginUc();
+            StackPanel.Children.Add(loginUserControl);
         }
     }
 };

@@ -4,10 +4,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:local="clr-namespace:Matador_in_WPF.view"
+        xmlns:uc="clr-namespace:Matador_in_WPF.view.UserControl"
         mc:Ignorable="d"
-        Title="StartupWindow" Height="1024" Width="1440">
-    <Grid>
-        <Button HorizontalAlignment="Center" VerticalAlignment="Center"
-                Height="20" Width="100" Click="StartupButton_OnClick" Content="OK"/>
+        Title="" Height="1024" Width="1440">
+    <Grid VerticalAlignment="Center">
+        
+        <StackPanel HorizontalAlignment="Center" x:Name="StackPanel">
+        </StackPanel>
+        
+        <!--<Button HorizontalAlignment="Center" VerticalAlignment="Center"
+                Height="20" Width="100" Click="StartupButton_OnClick" Content="OK"/>-->
+        
+        
     </Grid>
 </Window>

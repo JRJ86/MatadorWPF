@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         Left="0" Top="0"
         mc:Ignorable="d"
-        Title="Login" Height="350" Width="400">
+        Title="" Height="350" Width="400">
     <Grid Name="GridLogin">
-         <Grid.RowDefinitions>
+        
+        <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>

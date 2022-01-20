@@ -4,6 +4,7 @@ using System.Windows.Controls;
 using Matador_in_WPF.logic.logicInterface;
 using Matador_in_WPF.model.chanceCards;
 using Matador_in_WPF.mysql;
+using Matador_in_WPF.view.UserControl;
 
 namespace Matador_in_WPF.view
 {
@@ -59,6 +60,7 @@ namespace Matador_in_WPF.view
             var registration = new RegisterWindow();
             registration.Show();
             Close();
+
 
         }
 
