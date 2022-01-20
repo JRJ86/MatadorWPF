@@ -9,7 +9,6 @@
 
     <ItemGroup>
       <Folder Include="control" />
-      <Folder Include="view\Window" />
     </ItemGroup>
 
     <ItemGroup>
