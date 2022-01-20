@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\
 Matador_in_WPF
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\App.xaml
-5-358020275
-2-811791137
-21600947990
-2222053296405
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\App.xaml
+5354774379
+21628922542
+21-1738528520
+222-674427441
 view\GameScreenWindow.xaml;view\LoginWindow.xaml;view\MainWindow.xaml;view\PreGameWindow.xaml;view\RegisterWindow.xaml;
 
-True
+False
 

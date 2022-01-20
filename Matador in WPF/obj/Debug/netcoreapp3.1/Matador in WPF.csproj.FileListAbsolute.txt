@@ -67,3 +67,72 @@ C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\v
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\UserControl\RegisterUc.baml
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.g.cs
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.baml
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csproj.AssemblyReference.cache
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginWindow.baml
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\GameScreenWindow.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginWindow.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\PreGameWindow.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\RegisterWindow.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_Content.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_MarkupCompile.cache
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_MarkupCompile.lref
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.pdb
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.exe
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.deps.json
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.runtimeconfig.json
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.runtimeconfig.dev.json
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Matador in WPF.pdb
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MySql.Data.EntityFramework.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MySql.Web.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\GameScreenWindow.baml
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.baml
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\PreGameWindow.baml
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\RegisterWindow.baml
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.g.resources
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.AssemblyInfoInputs.cache
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.AssemblyInfo.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csproj.CopyComplete
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.genruntimeconfig.cache

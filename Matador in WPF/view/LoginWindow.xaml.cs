@@ -9,6 +9,7 @@ namespace Matador_in_WPF.view
 {
     public partial class LoginWindow : Window
     {
+        //TODO: DELETE THIS!!
 
         private readonly IScreenSize _screenSize = new ScreenSize();
         private readonly IDBconnection _dBconnection = new DBconnection();

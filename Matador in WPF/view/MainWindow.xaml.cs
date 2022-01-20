@@ -13,17 +13,13 @@ namespace Matador_in_WPF.view
             InitializeComponent();
             _screenSize.SetHeightAndWidthToMax(this);
             _screenSize.CenterWindowOnScreen(this);
-            this.Loaded += MainWindow_Loaded;
-        }
-
-        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
-        {
-            
         }
 
         private void StartupButton_OnClick(object sender, RoutedEventArgs e)
         {
-            throw new NotImplementedException();
+            var preGameWindow = new PreGameWindow();
+            preGameWindow.Show();
+            Close();
         }
     }
 };

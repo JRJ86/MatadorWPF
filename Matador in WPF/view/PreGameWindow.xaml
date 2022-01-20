@@ -5,8 +5,66 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:local="clr-namespace:Matador_in_WPF.view"
         mc:Ignorable="d"
-        Title="PreGameWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="PreGameWindow" Height="1024" Width="1440">
+    <Grid x:Name="ParentGridPregame" Background="Beige">
+        <Grid x:Name="LoginGrid" Visibility="Collapsed" VerticalAlignment="Center" HorizontalAlignment="Center" Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Name="HeadlineLogin" Margin="30,20" FontSize="30"
+                   TextAlignment="Center" Text="Login"/>
+
+            <TextBlock Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="50,10,0,0" Name="UsernameText"
+                   Text="Username" VerticalAlignment="Top" Width="77" />
+            <TextBlock Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="50,10,0,0" Name="PasswordText"
+                   Text="Password" VerticalAlignment="Top" Width="77" />
+            <TextBox Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="118,10,0,0" Name="TextBoxUsername"
+                 VerticalAlignment="Top" Width="220" />
+            <PasswordBox Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="118,10,0,0" Name="PasswordBox"
+                     VerticalAlignment="Top" Width="220" />
+            <Button Click="LoginButton_OnClick" Grid.Row="3" Content="Login" Name="LoginButton"
+                Height="20" Width="80" Margin="50,20,0,0" HorizontalAlignment="Left"/>
+            <Button Click="RegisterButton_OnClick" Grid.Row="3" Content="Register" Name="RegisterButton"
+                Height="20" Width="80" Margin="155,20,0,0" HorizontalAlignment="Left"/>
+            <Button Click="ExitButton_OnClick" Grid.Row="3" Content="Exit" Name="ExitButton"
+                Height="20" Width="80" Margin="260,20,0,0" HorizontalAlignment="Left"/>
+        </Grid>
+        <Grid x:Name="RegisterGrid" Visibility="Collapsed" VerticalAlignment="Center" HorizontalAlignment="Center" Background="Aqua">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Margin="30,20" Name="HeadlineReg" 
+                   Text="Registration" TextAlignment="Center"  FontSize="30"/>
+            <TextBlock Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="50,10,0,0" Name="TextBlockFirstname" 
+                   Text="Username" VerticalAlignment="Top" Width="77" />
+            <TextBlock Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="50,10,0,0" Name="TextBlockPassword" 
+                   Text="Password" VerticalAlignment="Top" Width="77"  />
+            <TextBlock Grid.Row="3" Height="40" HorizontalAlignment="Left" Margin="50,10,0,0" Name="TextBlockConfirmPwd" 
+                   Text="Confirm password" VerticalAlignment="Top" Width="77" TextWrapping="Wrap"/>
+            <TextBox Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="118,10,0,0" Name="TextBoxFirstName" 
+                 VerticalAlignment="Top" Width="220" />
+
+            <PasswordBox Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="118,10,0,0" Name="PasswordBox1" 
+                     VerticalAlignment="Top" Width="220" />
+            <PasswordBox Grid.Row="3" Height="23" HorizontalAlignment="Left" Margin="118,10,0,0" Name="PasswordBoxConfirm" 
+                     VerticalAlignment="Top" Width="222" />
+
+            <Button Grid.Row="4" Content="Submit" Height="23" HorizontalAlignment="Left" Margin="50,10,0,0" Name="Submit" 
+                 Width="80" Click="SubmitButton_OnClick" />
+            <Button Grid.Row="4" Content="Reset" Height="23" HorizontalAlignment="Left" Margin="155,10,0,0" Name="Reset" 
+                 Width="80" Click="ResetButton_OnClick" />
+            <Button Grid.Row="4" Content="Back" Height="23" HorizontalAlignment="Left" Margin="260,10,0,0" Name="Back" 
+                Width="80" Click="BackButton_OnClick" />
+        </Grid>        
     </Grid>
 </Window>
