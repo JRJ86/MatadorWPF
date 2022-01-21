@@ -1,26 +1,38 @@
 ﻿using Matador_in_WPF.logic.logicInterface;
 using Matador_in_WPF.mysql;
 using System;
+using System.Collections.Generic;
+using System.Text;
 using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
 
 namespace Matador_in_WPF.view
 {
-    public partial class PreGameWindow : Window
+    /// <summary>
+    /// Interaction logic for LoginAndRegiWindow.xaml
+    /// </summary>
+    public partial class LoginAndRegiWindow : Window
     {
 
         private readonly IScreenSize _screenSize = new ScreenSize();
         private readonly IDBconnection _dBconnection = new DBconnection();
         private string _username, _password;
 
-        public PreGameWindow()
+        public LoginAndRegiWindow()
         {
             InitializeComponent();
             _screenSize.SetHeightAndWidthToMax(this);
             _screenSize.CenterWindowOnScreen(this);
-            this.Loaded += PreGameWindow_Loaded;
+            this.Loaded += LoginAndRegi_Loaded;
         }
 
-        private void PreGameWindow_Loaded(object sender, RoutedEventArgs e)
+        private void LoginAndRegi_Loaded(object sender, RoutedEventArgs e)
         {
             LoginGrid.Visibility = Visibility.Visible;
         }
@@ -32,7 +44,7 @@ namespace Matador_in_WPF.view
 
             LoginGrid.Visibility = Visibility.Collapsed;
             RegisterGrid.Visibility = Visibility.Visible;
-            
+
         }
 
         private void LoginButton_OnClick(object sender, RoutedEventArgs e)
@@ -86,5 +98,4 @@ namespace Matador_in_WPF.view
             LoginGrid.Visibility = Visibility.Visible;
         }
     }
-};
-
+}

@@ -141,7 +141,7 @@ namespace Matador_in_WPF.view {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Matador in WPF;component/view/registerwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Matador in WPF;V1.0.0.0;component/view/registerwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\view\RegisterWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

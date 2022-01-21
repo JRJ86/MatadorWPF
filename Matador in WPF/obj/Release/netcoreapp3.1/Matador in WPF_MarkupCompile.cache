@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\App.xaml
-5354774379
+71745240759
 21628922542
-21-1738528520
+231649006004
 222-674427441
-view\GameScreenWindow.xaml;view\LoginWindow.xaml;view\MainWindow.xaml;view\PreGameWindow.xaml;view\RegisterWindow.xaml;
+view\GameScreenWindow.xaml;view\LoginAndRegiWindow.xaml;view\LoginWindow.xaml;view\MainWindow.xaml;view\PickGameWindow.xaml;view\PreGameWindow.xaml;view\RegisterWindow.xaml;
 
 True
 

@@ -221,7 +221,7 @@ namespace Matador_in_WPF.view {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Matador in WPF;component/view/pregamewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Matador in WPF;V1.0.0.0;component/view/pregamewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\view\PreGameWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,4 +1,4 @@
-﻿<Window x:Class="Matador_in_WPF.view.MainWindow"
+﻿<Window x:Class="Matador_in_WPF.view.PickGameWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
@@ -8,7 +8,5 @@
         Title="" Height="1024" Width="1440">
     <Grid VerticalAlignment="Center">
         
-        <Button HorizontalAlignment="Center" VerticalAlignment="Center"
-                Height="20" Width="100" Click="StartupButton_OnClick" Content="OK"/>
     </Grid>
 </Window>

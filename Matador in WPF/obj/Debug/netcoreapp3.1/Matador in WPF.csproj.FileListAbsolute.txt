@@ -68,12 +68,7 @@ C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\v
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.g.cs
 C:\Users\jacob\RiderProjects\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.baml
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csproj.AssemblyReference.cache
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginWindow.baml
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\GameScreenWindow.g.cs
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginWindow.g.cs
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.g.cs
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\PreGameWindow.g.cs
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\RegisterWindow.g.cs
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_Content.g.cs
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF_MarkupCompile.cache
@@ -126,9 +121,6 @@ C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\ru
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\GameScreenWindow.baml
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\MainWindow.baml
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\PreGameWindow.baml
-C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\RegisterWindow.baml
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.g.resources
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.AssemblyInfoInputs.cache
@@ -136,3 +128,7 @@ C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Ma
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csproj.CoreCompileInputs.cache
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.csproj.CopyComplete
 C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\Matador in WPF.genruntimeconfig.cache
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginAndRegiWindow.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\PickGameWindow.g.cs
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\LoginAndRegiWindow.baml
+C:\Users\jacob\Source\Repos\MatadorWPF\Matador in WPF\obj\Debug\netcoreapp3.1\view\PickGameWindow.baml
